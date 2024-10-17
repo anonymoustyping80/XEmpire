@@ -33,7 +33,7 @@ Click the following URL to register: [XEmpire Bot](http://t.me/empirebot/game?st
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/XEmpire.git
+   git clone https://github.com/anonymoustyping80/XEmpire.git
    ```
 
 3. Navigate to the XEmpire directory
