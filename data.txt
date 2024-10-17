@@ -1,1 +1,1 @@
-Paste here your query_id/user
+user=%7B%22id%22%3A1876199595%2C%22first_name%22%3A%22%F0%9F%8C%BF%E2%83%9F%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%98%F0%9D%97%98%F0%9D%97%97%F0%9D%97%AC%20%E2%9C%98%20%F0%9D%97%A0%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%9C%F0%9D%97%96%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22SPEEDY_X_PLAYER%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-8427626466334548818&chat_type=sender&start_param=utm_bot_play&auth_date=1729135047&hash=a664590e6b82685b631c8f21c44a9caec79a01214558411be17229d5b97c6db5
